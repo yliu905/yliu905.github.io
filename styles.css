@@ -1,6 +1,7 @@
 body {
     text-align:center;
-    background-color:linear-gradient(90deg, rgba(236,20,149,1) 0%, rgba(92,217,208,1) 93%, rgba(0,187,255,1) 100%);
+    background: rgb(236,20,149);
+    background: linear-gradient(90deg, rgba(236,20,149,1) 0%, rgba(92,217,208,1) 93%, rgba(0,187,255,1) 100%);
 }
 img{
     width:400px;
